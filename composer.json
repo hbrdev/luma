@@ -1,0 +1,14 @@
+{
+    "name": "hbrdev/luma",
+    "description": "Luma Framework",
+    "license": "MIT",
+    "keywords": [
+        "framework",
+        "luma",
+    ],
+    "homepage": "http://luma.hbrmedia.com/",
+    "require": {
+        "php": ">=5.3.*",
+        "hbrdev/luma": ">=1.0",
+    }
+}
